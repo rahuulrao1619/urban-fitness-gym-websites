@@ -24,3 +24,10 @@ To create a professional website that showcases the gym, its facilities, members
 ## 🚧 Status
 
 Project Planning Phase
+
+## 📚 Documentation
+
+Project documentation is available inside the `docs/` folder.
+
+- Project Roadmap
+- Requirements
