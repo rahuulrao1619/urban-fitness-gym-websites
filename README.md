@@ -31,3 +31,5 @@ Project documentation is available inside the `docs/` folder.
 
 - Project Roadmap
 - Requirements
+- Team Roles
+- Project Structure
