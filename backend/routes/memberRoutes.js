@@ -1,14 +1,8 @@
 const express = require("express");
 const router = express.Router();
 
-router.get("/", (req, res) => {
-  res.json([
-    {
-      id: 1,
-      name: "Rahul",
-      plan: "Premium"
-    }
-  ]);
-});
+const { getMembers } = require("../controllers/memberController");
+
+router.get("/", getMembers);
 
 module.exports = router;
